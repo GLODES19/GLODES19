@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GLODES19
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning phyton 
+- 🌱 I’m currently studying information science 
 - 💞️ I’m looking to collaborate on phyton 
 - 📫 How to reach me ...
 
